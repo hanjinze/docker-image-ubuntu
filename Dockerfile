@@ -1,4 +1,4 @@
-from shykes/gordon
+from scratch
 add quantal.tar.bz2 /
 version quantal
 version 12.10
